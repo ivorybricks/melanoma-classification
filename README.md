@@ -3,7 +3,7 @@
 ## About the Project:
 This repository contains some files that show my process of working on the SIIM-ISIC Melanoma Classification project. 
 
-Project Goal: Given images of skin lesions, determine the probability that each lesion represents melanoma. 
+**Project Goal:** Given images of skin lesions, determine the probability that each lesion represents melanoma. 
 
 View SIIM-ISIC Melanoma Classification prediction competition: 
 https://www.kaggle.com/c/siim-isic-melanoma-classification/ 
