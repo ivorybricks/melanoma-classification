@@ -1,6 +1,6 @@
 # melanoma-classification
 
-**About the Project:**
+## About the Project:
 This repository contains some files that show my process of working on the SIIM-ISIC Melanoma Classification project. 
 
 Project Goal: Given images of skin lesions, determine the probability that each lesion represents melanoma. 
@@ -8,7 +8,7 @@ Project Goal: Given images of skin lesions, determine the probability that each 
 View SIIM-ISIC Melanoma Classification prediction competition: 
 https://www.kaggle.com/c/siim-isic-melanoma-classification/ 
 
-**More Specifics on Repository Files**
+## More Specifics on Repository Files
 During this project, I worked with both structured (.csv) and unstructured data (.jpeg images).
 
 _Most Relevant Files:_
@@ -25,7 +25,7 @@ _Other Files:_
 - **XGBoost - XGBoost-v3.ipynb** - Previous attempts utilizing XGBoost model.
 - **melanoma_cnn_v1.ipynb** - First attempt utilizing CNN model.
 
-**Summary of Results**
+## Summary of Results
 _Some results excluded for brevity._
 
 Based on Kaggle's Private Score (received by scoring predictions against the private portion of data, hidden until all submissions are received), my highest scoring predictions were those resembling or generated from **xgboost_cnn_combined.ipynb**. (These were the predictions created by taking a weighted average of **XGBoost-v4.ipynb** and **melanoma_cnn_v2.ipynb** predictions.) The highest of these scores was 0.7919. 
