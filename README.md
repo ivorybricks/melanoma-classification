@@ -12,8 +12,7 @@ https://www.kaggle.com/c/siim-isic-melanoma-classification/
 During this project, I worked with both structured (.csv) and unstructured data (.jpeg images).
 
 _Most Relevant Files:_
-- **XGBoost-v4.ipynb**
-  My final version using the XGBoost model on the structured data.
+- **XGBoost-v4.ipynb** - My final version using the XGBoost model on the structured data.
 - **melanoma_cnn_v2.ipynb** - My final version using the CNN model on images cropped based on salient regions.
 - **Statistical Notes on train.csv.ipynb** - File in which I run a bit of exploratory analysis on the structured data.
 - **xgboost_cnn_combined.ipynb** - File in which I average the target results from models seen in XGBoost-v4.ipynb and melanoma_cnn_v2.ipynb with weights based on each model's performance. 
